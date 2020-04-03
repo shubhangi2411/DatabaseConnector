@@ -1,0 +1,9 @@
+D:\Quartic\SqlConnector_POC\SqlConnector\bin\Debug\netstandard2.0\SqlConnector.deps.json
+D:\Quartic\SqlConnector_POC\SqlConnector\bin\Debug\netstandard2.0\SqlConnector.dll
+D:\Quartic\SqlConnector_POC\SqlConnector\bin\Debug\netstandard2.0\SqlConnector.pdb
+D:\Quartic\SqlConnector_POC\SqlConnector\obj\Debug\netstandard2.0\SqlConnector.csprojAssemblyReference.cache
+D:\Quartic\SqlConnector_POC\SqlConnector\obj\Debug\netstandard2.0\SqlConnector.csproj.CoreCompileInputs.cache
+D:\Quartic\SqlConnector_POC\SqlConnector\obj\Debug\netstandard2.0\SqlConnector.AssemblyInfoInputs.cache
+D:\Quartic\SqlConnector_POC\SqlConnector\obj\Debug\netstandard2.0\SqlConnector.AssemblyInfo.cs
+D:\Quartic\SqlConnector_POC\SqlConnector\obj\Debug\netstandard2.0\SqlConnector.dll
+D:\Quartic\SqlConnector_POC\SqlConnector\obj\Debug\netstandard2.0\SqlConnector.pdb
